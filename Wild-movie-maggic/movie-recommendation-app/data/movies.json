@@ -1,0 +1,14 @@
+{
+  "movies": [
+    { "title": "The Shawshank Redemption", "poster": "shawshank-redemption.jpg" },
+    { "title": "The Godfather", "poster": "the-godfather.jpg" },
+    { "title": "The Dark Knight", "poster": "the-dark-knight.jpg" },
+    { "title": "Inception", "poster": "inception.jpg" },
+    { "title": "Forrest Gump", "poster": "forrest-gump.jpg" },
+    { "title": "The Matrix", "poster": "the-matrix.jpg" },
+    { "title": "Star Wars: Episode IV - A New Hope", "poster": "star-wars.jpg" },
+    { "title": "Jurassic Park", "poster": "jurassic-park.jpg" },
+    { "title": "The Lord of the Rings: The Fellowship of the Ring", "poster": "the-fellowship-of-the-ring.jpg" },
+    { "title": "The Silence of the Lambs", "poster": "the-silence-of-the-lambs.jpg" }
+  ]
+}
